@@ -9,7 +9,7 @@ This repository provides a sample of the python script I coded to calculate scor
 
 -Conditional expressions (numpy.where)
 
--Merging dataframes (pandas.merge)
+-Merging dataframes (pandas.DataFrame.merge)
 
 -Row value lookups (pandas.DataFrame.loc)
 
